@@ -1,5 +1,3 @@
-#Conexão Play
-
 <!DOCTYPE html>
 <html>
 <head>
